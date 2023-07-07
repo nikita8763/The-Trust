@@ -87,7 +87,6 @@ const ContactPage = () => {
           </div>
         </div>
       </div>
-      <ChatBot />
     </div>
   );
 };

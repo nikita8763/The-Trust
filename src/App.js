@@ -19,8 +19,8 @@ function App() {
       <HumsafarTrustPage/>
       <AboutPage />
       <ContactPage />
-      {/* <ChatBot /> */}
       <Footer />
+      <ChatBot />
     </div>
   );
 }
