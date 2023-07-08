@@ -1,5 +1,4 @@
 import React from 'react';
-import ChatBot from './ChatBot';
 
 const ContactPage = () => {
   return (

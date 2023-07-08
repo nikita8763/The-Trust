@@ -12,7 +12,7 @@ const Navbar = () => {
           <a href='#opportunity' class="mr-5 hover:text-blue-600 cursor-pointer">Opportunity</a>
           <a href='#aboutus' class="mr-5 hover:text-blue-600 cursor-pointer">About Us</a>
           <a href='#contactus' class="mr-5 hover:text-blue-600 cursor-pointer">Contact Us</a>
-          <a class="mr-5 hover:text-blue-600 cursor-pointer">Sign Up</a>
+          <a href='#contactus' class="mr-5 hover:text-blue-600 cursor-pointer">Sign Up</a>
         </nav>
     </div>
   )
