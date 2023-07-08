@@ -8,6 +8,7 @@ import AboutPage from "./components/AboutPage";
 import ContactPage from "./components/ContactPage";
 import Footer from "./components/Footer";
 import ChatBot from "./components/ChatBot";
+import SignUpPage from "./components/SignUpPage";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <HumsafarTrustPage/>
       <AboutPage />
       <ContactPage />
+      <SignUpPage />
       <Footer />
       <ChatBot />
     </div>
